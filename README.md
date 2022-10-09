@@ -2,7 +2,7 @@
 
 # I create beautiful, intuitive, functional and accessible interfaces with amazing digital experience.
 
-<table style="width:100%;">
+<table class='table'>
 <thead>
 <tr>
 <th>DEV</th>
@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/CSS-18181B?&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt=""></td>
-<td><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&amp;logo=Miro&amp;logoColor=white" alt=""></td>
+<td><img src="https://img.shields.io/badge/Miro-18181B?style=for-the-badge&amp;logo=Miro&amp;logoColor=white" alt=""></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt=""></td>
@@ -36,6 +36,16 @@
 </tr>
 </tbody>
 </table>
+
+<style>
+    .table{
+        width: 1000px;
+    }
+
+    th{
+        width: 500px;
+    }
+</style>
 
 - 👋 Hi, I’m @josnethmoreno
 - 👀 I’m interested in Frontend Development
