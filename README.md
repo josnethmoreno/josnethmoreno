@@ -1,4 +1,4 @@
-![home image](home.jpg "Home")
+![home image](ho2me.jpg "Home")
 
 - 👋 Hi, I’m @josnethmoreno
 - 👀 I’m interested in Frontend Development
