@@ -2,7 +2,7 @@
 
 # I create beautiful, intuitive, functional and accessible interfaces with amazing digital experience.
 
-<table class="table table-striped table-bordered">
+<table style="width:100%;">
 <thead>
 <tr>
 <th>DEV</th>
