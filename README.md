@@ -2,7 +2,9 @@
 
 # I create beautiful, intuitive, functional and accessible interfaces with amazing digital experience.
 
-## Skills
+I'm a passionate for the design digital and development web :D
+
+### Skills
 
 <table class='table'>
 <thead>
@@ -38,3 +40,4 @@
 </tr>
 </tbody>
 </table>
+
