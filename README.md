@@ -2,6 +2,8 @@
 
 # I create beautiful, intuitive, functional and accessible interfaces with amazing digital experience.
 
+## Skills
+
 <table class='table'>
 <thead>
 <tr>
@@ -36,19 +38,3 @@
 </tr>
 </tbody>
 </table>
-
-<style>
-    .table{
-        width: 1000px;
-    }
-
-    th{
-        width: 500px;
-    }
-</style>
-
-- 👋 Hi, I’m @josnethmoreno
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...3
