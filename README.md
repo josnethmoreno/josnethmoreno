@@ -1,4 +1,4 @@
-![home image](home.jpg "Home")
+![home image](home.jpg 'Home')
 
 # I create beautiful, intuitive, functional and accessible interfaces with amazing digital experience.
 
@@ -22,11 +22,11 @@
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt=""></td>
-<td><img src="https://img.shields.io/badge/Inkscape-18181B?style=for-the-badge&amp;logo=Inkscape&amp;logoColor=white" alt=""></td>
+<td><img src="https://img.shields.io/badge/adobe%20illustrator-18181B.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt=""></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt=""></td>
-<td><img src="https://img.shields.io/badge/gimp-18181B?style=for-the-badge&amp;logo=gimp&amp;logoColor=white" alt=""></td>
+<td><img src="https://img.shields.io/badge/adobe%20photoshop-18181B.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt=""></td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt=""></td>
@@ -38,5 +38,3 @@
 </tr>
 </tbody>
 </table>
-
-
